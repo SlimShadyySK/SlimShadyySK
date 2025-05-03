@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlimShadyySK
 - 👀 I’m interested in Coding,ethic hacking,making music,videogames
-- 🌱 I’m currently learning on terminal,CMD,...etc
+- 🌱 I’m currently learning on terminal,CMD,python,...etc
 - 💞️ I’m looking to collaborate on new videogame
 - 📫 How to reach me: bolhapeter120@gmail.com
 
